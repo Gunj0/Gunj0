@@ -39,3 +39,9 @@
   - Kibana/Elasticsearch
 - 趣味のみ
   - Cloudflare
+
+### その他
+
+- 業務
+  - MATLAB
+  - TargetLink

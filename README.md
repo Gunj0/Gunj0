@@ -48,5 +48,5 @@
 
 ## 成果物
 
-- [FGORankGenerator(https://fgorankgenerator.azurewebsites.net/)
+- [FGORankGenerator](https://fgorankgenerator.azurewebsites.net/)
   - [Repository](https://github.com/Gunj0/FGORankGenerator)

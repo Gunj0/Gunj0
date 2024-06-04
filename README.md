@@ -63,9 +63,9 @@
   - GitHub Actions
   - NewRelic
   - Kibana/Elasticsearch
+  - yamory
   - Google Analytics
   - Google Tag Manager
-  - yamory
   - Git/GitHub/GitLab
   - Visual Studio/Visual Studio Code
   - Prettier/ESLint

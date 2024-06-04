@@ -12,9 +12,9 @@
     - 要件定義/外部設計/テスト
     - コーディング
 
-## 技術スタック
+## Skill
 
-### フロントエンド
+### Frontend
 
 - 業務
   - HTML/CSS/JavaScript
@@ -22,7 +22,7 @@
 - 趣味
   - React
 
-### バックエンド
+### Serverside
 
 - 業務
   - C#/.NET Framework/ASP.NET MVC
@@ -30,7 +30,7 @@
   - TypeScript/Node.js/Express
   - Ruby/Ruby on Rails
 
-### DB
+### Database
 
 - 業務
   - SQL Server
@@ -39,15 +39,22 @@
   - MySQL
   - SQLite
 
-### インフラ
+### Infrastructure
 
 - 業務
   - Docker
   - Azure
-  - AWS
+    - App Service
+    - SQL Database
+    - Azure Cache for Redis
+    - Container Registry
+  - GitHub Actions
   - NewRelic
   - Kibana/Elasticsearch
+  - Google Analytics
+  - Google Tag Manager
 - 趣味
+  - AWS
   - Cloudflare
 
 ### その他

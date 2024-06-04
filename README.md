@@ -4,9 +4,9 @@
 
 - 2021/8 - Now
   - クラウド会計ソフト開発
-    - マネジメント
     - 要求定義/要件定義/設計/テスト
     - フロントエンド/バックエンド/インフラ
+    - マネジメント
 - 2018/4 - 2021/8
   - 四輪エンジンECU組み込みソフト開発
     - 要件定義/設計/テスト
@@ -17,10 +17,12 @@
 ### Frontend
 
 - 仕事
-  - HTML/CSS/JavaScript
-  - TypeScript
+  - HTML
+  - CSS/Sass
+  - JavaScript/TypeScript
 - 個人開発
-  - React
+  - React/Next.js
+  - TailwindCSS/Radix UI
 
 ### Backend
 
@@ -57,11 +59,15 @@
 - 個人開発
   - AWS
   - Cloudflare
+  - Firebase
 
 ### Tool
 
 - 仕事
   - Git/GitHub/GitLab
+  - Visual Studio/Visual Studio Code
+  - NuGet/npm
+  - Prettier/ESLint
   - Subversion/TortoiseSVN
   - MATLAB/TargetLink/ANSI-C
 

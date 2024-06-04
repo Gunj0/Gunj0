@@ -18,26 +18,35 @@
 - 業務
   - HTML
   - CSS
-  - JavaScript
-  - TypeScript
-- 趣味のみ
+  - JavaScript/TypeScript
+- 趣味
   - React
 
 ### バックエンド
 
 - 業務
-  - C#
-- 趣味のみ
-  - TypeScript
+  - C#/.NET Framework/ASP.NET
+- 趣味
+  - TypeScript/Node.js/Express
+  - Ruby/Ruby on Rails
+
+### DB
+
+- 業務
+  - SQL Server
+- 趣味
+  - MySQL
+  - SQLite
 
 ### インフラ
 
 - 業務
+  - Docker
   - Azure
   - AWS
   - NewRelic
   - Kibana/Elasticsearch
-- 趣味のみ
+- 趣味
   - Cloudflare
 
 ### その他

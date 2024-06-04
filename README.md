@@ -22,7 +22,8 @@
   - JavaScript/TypeScript
 - 個人開発
   - React/Next.js
-  - TailwindCSS/Radix UI
+  - TailwindCSS
+  - Radix UI
 
 ### Backend
 

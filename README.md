@@ -1,6 +1,6 @@
 # Gunj0
 
-## 経歴
+## Career
 
 - 2021/8 - Now
   - クラウド会計ソフト開発
@@ -17,16 +17,15 @@
 ### フロントエンド
 
 - 業務
-  - HTML
-  - CSS
-  - JavaScript/TypeScript
+  - HTML/CSS/JavaScript
+  - TypeScript
 - 趣味
   - React
 
 ### バックエンド
 
 - 業務
-  - C#/.NET Framework/ASP.NET
+  - C#/.NET Framework/ASP.NET MVC
 - 趣味
   - TypeScript/Node.js/Express
   - Ruby/Ruby on Rails
@@ -55,8 +54,8 @@
 
 - 業務
   - Git/GitHub/GitLab
-  - SVN
-  - MATLAB/TargetLink/ANSI C
+  - Subversion/TortoiseSVN
+  - MATLAB/TargetLink/ANSI-C
 
 ## 成果物
 

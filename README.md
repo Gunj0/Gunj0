@@ -52,11 +52,6 @@
     - SQL Database
     - Azure Cache for Redis
     - Container Registry
-  - GitHub Actions
-  - NewRelic
-  - Kibana/Elasticsearch
-  - Google Analytics
-  - Google Tag Manager
 - 個人開発
   - AWS
   - Cloudflare
@@ -65,9 +60,14 @@
 ### Tool
 
 - 仕事
+  - GitHub Actions
+  - NewRelic
+  - Kibana/Elasticsearch
+  - Google Analytics
+  - Google Tag Manager
+  - yamory
   - Git/GitHub/GitLab
   - Visual Studio/Visual Studio Code
-  - NuGet/npm
   - Prettier/ESLint
   - Subversion/TortoiseSVN
   - MATLAB/TargetLink/ANSI-C

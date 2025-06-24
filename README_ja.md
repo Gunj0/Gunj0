@@ -84,7 +84,7 @@
 
 - 期間: 2021 年 8 月 ～ 現在
 - 担当: Web アプリエンジニア / テクニカルリード
-- 開発: フロントエンド・バックエンド・インフラを含むフルスタックを担当
+- 開発: React, ASP.NET Core, Docker, AWS 等
 
 ### 🔧 四輪エンジン ECU 組み込みソフトウェア開発
 
@@ -98,3 +98,8 @@
   - 自己紹介・スキルセット・技術ブログ等をまとめたポートフォリオサイトです。
   - モダンなフロントエンド技術を活用しています。
   - 使用技術: Next.js / TailwindCSS / shadcn/ui / Vercel
+
+## 📫 連絡先
+
+- [X (Twitter)](https://x.com/Gunj0dev)
+- [Bluesky](https://bsky.app/profile/gunj0.bsky.social)

@@ -1,7 +1,7 @@
 # [Gunj0](https://www.gunj0.com/)
 
-🇯🇵 Full-stack web engineer based in Japan.  
-💡 Specializing in designing and building modern web applications with C# and TypeScript.  
+🇯🇵 Full-Stack Web Developer based in Japan.  
+💡 I specialize in designing and building modern web applications with C# and TypeScript.
 👉️ [日本語 🇯🇵](./README_ja.md)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunj0&layout=compact)](https://github.com/Gunj0?tab=repositories)
@@ -84,13 +84,13 @@
 
 - Period: August 2021 - Present
 - Role: Web Application Developer / Technical Lead
-- Stack: Full-stack development including frontend, backend, and infrastructure
+- Tech Stack: React, ASP.NET Core, Docker, AWS, etc.
 
 ### 🔧 Embedded Software Development for 4-Wheel Engine ECUs
 
 - Period: April 2018 - August 2021
-- Role: Embedded Software Engineer
-- Stack: MATLAB, Simulink, ANSI-C
+- Role: Embedded Software Developer
+- Tech Stack: MATLAB, Simulink, ANSI-C
 
 ## 🧪 Personal Projects
 
@@ -98,3 +98,8 @@
   - A portfolio website showcasing my background, skills, and technical blog.
   - Built using modern frontend technologies.
   - Tech Stack: Next.js / TailwindCSS / shadcn/ui / Vercel
+
+## 📫 Contact
+
+- [X (Twitter)](https://x.com/Gunj0dev)
+- [Bluesky](https://bsky.app/profile/gunj0.bsky.social)

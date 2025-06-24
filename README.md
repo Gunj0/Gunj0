@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunj0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+> Displays my most used programming languages on GitHub.
+
 ## 🚀 Skill
 
 ### 🎨 Frontend

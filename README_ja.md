@@ -1,12 +1,12 @@
 # [Gunj0](https://www.gunj0.com/)
 
-👋 モダンな Web アプリ開発しているフルスタックエンジニアです。特に C#、TypeScript が得意です。
+👋 モダンな Web アプリ開発をしているフルスタックエンジニアです。特に C#、TypeScript が得意。
 
 👉️ [English 🇺🇸](./README.md)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunj0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-> GitHub 上で最も多く使っている言語を表示しています
+> GitHub 上での言語の使用率です。
 
 ## 🚀 スキル
 

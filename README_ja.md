@@ -1,12 +1,12 @@
 # [Gunj0](https://www.gunj0.com/)
 
-👋 モダンな Web アプリ開発をしているフルスタックエンジニアです。特に C#、TypeScript が得意。
-
+🇯🇵 日本在住のフルスタック Web エンジニアです。  
+💡 C# と TypeScript を中心に、モダンな Web アプリケーションの設計・開発を得意としています。  
 👉️ [English 🇺🇸](./README.md)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunj0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunj0&layout=compact)](https://github.com/Gunj0?tab=repositories)
 
-> GitHub 上での言語の使用率です。
+> GitHub 上での各言語の使用率
 
 ## 🚀 スキル
 
@@ -20,11 +20,12 @@
 - **個人開発**
   - shadcn/ui
 
-### 🖥️ バックエンド
+### 🖥️ バックエンド & API
 
 - **業務経験**
-  - C# / .NET Framework / .NET
-  - ASP.NET MVC / ASP.NET Core
+  - C# / .NET /.NET Framework
+  - ASP.NET Core / ASP.NET MVC
+  - GraphQL / HotChocolate
 - **個人開発**
   - TypeScript / Node.js / Express
   - Ruby / Ruby on Rails
@@ -42,50 +43,58 @@
 ### ☁️ インフラ
 
 - **業務経験**
-  - AWS
-    - Elastic Container Service
-    - CodePipeline
-  - Azure
-    - App Service
-    - SQL Database
-    - Azure Cache for Redis
-    - Container Registry
-  - Docker
-  - IIS
+  - **クラウド**
+    - AWS (ECS, RDS, SQS, CodePipeline)
+    - Azure (App Service, SQL Database, Redis Cache, Container Registry)
+  - **コンテナ**
+    - Docker
 - **個人開発**
   - Cloudflare
   - Firebase
 
-### 🛠 DevOps & ツール
+### ⚙️ DevOps
 
-- **業務経験**
-  - **CI/CD**
-    - GitHub Actions
-  - **ログ**
-    - NewRelic
-    - Kibana / Elasticsearch
-    - Google Analytics
-  - **セキュリティ**
-    - yamory
-  - **開発環境**
-    - Visual Studio / Visual Studio Code
-    - Git / GitHub / GitLab
-    - Prettier / ESLint
-    - Subversion / TortoiseSVN
-    - Google Tag Manager
-    - MATLAB / Simulink / TargetLink
+- **CI/CD**
+  - GitHub Actions
+- **モニタリング・ロギング**
+  - NewRelic
+  - Kibana / Elasticsearch
+  - Google Analytics
+  - Google Tag Manager
+- **セキュリティ**
+  - yamory
+
+### 🛠 ツール
+
+- **開発環境**
+  - Visual Studio / VS Code
+  - Git / GitHub / GitLab / SVN / TortoiseSVN
+  - Prettier / ESLint
+  - Figma
+  - MATLAB / Simulink / TargetLink
+- **コミュニケーション・管理**
+  - Slack
+  - Jira
+  - Confluence
+  - Miro
 
 ## 🧑‍💻 実務経験
 
-- 📘 会計 Web アプリケーション（2021 年 8 月 ～ 現在）
-  - 担当: Web アプリエンジニア / テクニカルリード
-  - 開発: フロントエンド・バックエンド・インフラを含むフルスタックを担当
-- 🔧 四輪エンジン ECU 組み込みソフトウェア（2018 年 4 月 ～ 2021 年 8 月）
-  - 担当: 組み込みソフトウェアエンジニア
-  - 開発: MATLAB、Simulink、ANSI-C を使用
+### 📘 会計 Web アプリケーション開発
+
+- 期間: 2021 年 8 月 ～ 現在
+- 担当: Web アプリエンジニア / テクニカルリード
+- 開発: フロントエンド・バックエンド・インフラを含むフルスタックを担当
+
+### 🔧 四輪エンジン ECU 組み込みソフトウェア開発
+
+- 期間: 2018 年 4 月 ～ 2021 年 8 月
+- 担当: 組み込みソフトウェアエンジニア
+- 開発: MATLAB・Simulink・ANSI-C を使用
 
 ## 🧪 個人開発
 
 - [Gunj0 ポートフォリオサイト](https://www.gunj0.com/)
-  - モダンなフロントエンド技術を活かして、自己紹介・スキルセット・実績をまとめたポートフォリオサイトです。
-  - 使用技術：Next.js / TailwindCSS / shadcn/ui / Vercel
+  - 自己紹介・スキルセット・技術ブログ等をまとめたポートフォリオサイトです。
+  - モダンなフロントエンド技術を活用しています。
+  - 使用技術: Next.js / TailwindCSS / shadcn/ui / Vercel

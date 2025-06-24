@@ -1,14 +1,14 @@
 # [Gunj0](https://www.gunj0.com/)
 
-👋 I'm a full-stack developer, now building modern web applications with C#, TypeScript and cloud technologies.
-
+🇯🇵 Full-stack web engineer based in Japan.  
+💡 Specializing in designing and building modern web applications with C# and TypeScript.  
 👉️ [日本語 🇯🇵](./README_ja.md)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunj0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunj0&layout=compact)](https://github.com/Gunj0?tab=repositories)
 
-> Displays my most used programming languages on GitHub.
+> Language usage stats across my public GitHub repositories.
 
-## 🚀 Skill
+## 🚀 Skills
 
 ### 🎨 Frontend
 
@@ -20,11 +20,12 @@
 - **Personal**
   - shadcn/ui
 
-### 🖥️ Backend
+### 🖥️ Backend & API
 
 - **Professional**
-  - C# /.NET Framework / .NET
-  - ASP.NET MVC / ASP.NET Core
+  - C# / .NET /.NET Framework
+  - ASP.NET Core / ASP.NET MVC
+  - GraphQL / HotChocolate
 - **Personal**
   - TypeScript / Node.js / Express
   - Ruby / Ruby on Rails
@@ -42,53 +43,58 @@
 ### ☁️ Infrastructure
 
 - **Professional**
-  - AWS
-    - Elastic Container Service
-    - CodePipeline
-  - Azure
-    - App Service
-    - SQL Database
-    - Azure Cache for Redis
-    - Container Registry
-  - Docker
-  - IIS
+  - **Cloud**
+    - AWS (ECS, RDS, Lambda, S3, CloudWatch, CodePipeline)
+    - Azure (App Service, SQL Database, Redis Cache, Azure Storage)
+  - **Container**
+    - Docker
 - **Personal**
   - Cloudflare
   - Firebase
 
-### 🛠 DevOps & Tools
+### ⚙️ DevOps
 
-- **Professional**
-  - **CI/CD**
-    - GitHub Actions
-  - **Log**
-    - NewRelic
-    - Kibana / Elasticsearch
-    - Google Analytics
-  - **Security**
-    - yamory
-  - **Dev**
-    - Visual Studio / Visual Studio Code
-    - Git / GitHub / GitLab
-    - Prettier / ESLint
-    - Subversion / TortoiseSVN
-    - Google Tag Manager
-    - MATLAB / Simulink / TargetLink
+- **CI/CD**
+  - GitHub Actions
+- **Monitoring / Logging**
+  - NewRelic
+  - Kibana / Elasticsearch
+  - Google Analytics
+  - Google Tag Manager
+- **Security**
+  - yamory
+
+### 🛠 Tools
+
+- **Development**
+  - Visual Studio / VS Code
+  - Git / GitHub / GitLab / SVN / TortoiseSVN
+  - Prettier / ESLint
+  - Figma
+  - MATLAB / Simulink / TargetLink
+- **Communication / Management**
+  - Slack
+  - Jira
+  - Confluence
+  - Miro
 
 ## 🧑‍💻 Experience
 
-### 📘 Accounting Web Application (2021/08 – Present)
+### 📘 Accounting Web Application Development
 
-- Role: Web Developer / Technical Lead
-- Stack: Frontend, Backend, Infrastructure
+- Period: August 2021 - Present
+- Role: Web Application Developer / Technical Lead
+- Stack: Full-stack development including frontend, backend, and infrastructure
 
-### 🔧 Embedded Software for 4-Wheel Engine ECUs (2018/04 – 2021/08)
+### 🔧 Embedded Software Development for 4-Wheel Engine ECUs
 
+- Period: April 2018 - August 2021
 - Role: Embedded Software Engineer
 - Stack: MATLAB, Simulink, ANSI-C
 
 ## 🧪 Personal Projects
 
-- [Gunj0 Portfolio site](https://www.gunj0.com/)
-  - A personal portfolio to showcase my skills using modern frontend stack.
-  - Built with: Next.js / TailwindCSS / shadcn/ui / Vercel
+- [Gunj0 Portfolio Website](https://www.gunj0.com/)
+  - A portfolio website showcasing my background, skills, and technical blog.
+  - Built using modern frontend technologies.
+  - Tech Stack: Next.js / TailwindCSS / shadcn/ui / Vercel

@@ -71,21 +71,19 @@
     - Prettier / ESLint
     - Subversion / TortoiseSVN
     - Google Tag Manager
-    - MATLAB / TargetLink
+    - MATLAB / Simulink / TargetLink
 
 ## 🧑‍💻 Experience
 
 ### 📘 Accounting Web Application (2021/08 – Present)
 
-- Role: Technical Lead / Project Manager
-- Involved in all phases: Requirements, Design, Implementation, Testing
-- Worked across the full stack: Frontend, Backend, Infrastructure
+- Role: Web Developer / Technical Lead
+- Stack: Frontend, Backend, Infrastructure
 
 ### 🔧 Embedded Software for 4-Wheel Engine ECUs (2018/04 – 2021/08)
 
 - Role: Embedded Software Engineer
-- Responsibilities: Requirements Definition, Design, Coding, Testing
-- Tools: MATLAB, ANSI-C
+- Stack: MATLAB, Simulink, ANSI-C
 
 ## 🧪 Personal Projects
 

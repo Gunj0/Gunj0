@@ -1,82 +1,94 @@
-# Gunj0
+# [Gunj0](https://www.gunj0.com/)
 
-## Career
+👋 I'm a full-stack developer, now building modern web applications with C#, TypeScript and cloud technologies.
 
-- 2021/8-
-  - 会計Webアプリ開発
-    - 要求定義/要件定義/設計/テスト
-    - Frontend/Backend/Infra
-    - マネジメント
-- 2018/4-2021/8
-  - 四輪エンジンECU組み込みソフト開発
-    - 要件定義/設計/テスト
-    - Matlab/ANSI-C
+👉️ [日本語 🇯🇵](./README_ja.md)
 
-## Skill
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunj0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Frontend
+## 🚀 Skill
 
-- 業務
+### 🎨 Frontend
+
+- **Professional**
   - HTML
-  - CSS
-  - JavaScript/TypeScript
-- 個人開発
-  - React/Next.js
-  - TailwindCSS
-  - Shdcn/ui
+  - CSS / TailwindCSS
+  - JavaScript / TypeScript
+  - React / Next.js
+- **Personal**
+  - shadcn/ui
 
-### Backend
+### 🖥️ Backend
 
-- 業務
-  - C#/.NET Framework/ASP.NET MVC
-- 個人開発
-  - TypeScript/Node.js/Express
-  - Ruby/Ruby on Rails
+- **Professional**
+  - C# /.NET Framework / .NET
+  - ASP.NET MVC / ASP.NET Core
+- **Personal**
+  - TypeScript / Node.js / Express
+  - Ruby / Ruby on Rails
 
-### Database
+### 🗄️ Database
 
-- 業務
-  - SQL Server
-  - Redis
-- 個人開発
+- **Professional**
   - MySQL
+  - Microsoft SQL Server
+  - Redis
+- **Personal**
   - SQLite
+  - PostgreSQL
 
-### Middleware
+### ☁️ Infrastructure
 
-- 業務
-  - IIS
-  - Docker
+- **Professional**
+  - AWS
+    - Elastic Container Service
+    - CodePipeline
   - Azure
     - App Service
     - SQL Database
     - Azure Cache for Redis
     - Container Registry
-- 個人開発
-  - AWS
+  - Docker
+  - IIS
+- **Personal**
   - Cloudflare
   - Firebase
 
-### Tool
+### 🛠 DevOps & Tools
 
-- 業務
-  - CI/CD
+- **Professional**
+  - **CI/CD**
     - GitHub Actions
-  - Log
+  - **Log**
     - NewRelic
-    - Kibana/Elasticsearch/fluentd
+    - Kibana / Elasticsearch
     - Google Analytics
-  - Security
+  - **Security**
     - yamory
-  - Dev
-    - Visual Studio/Visual Studio Code
-    - Git/GitHub/GitLab
-    - Prettier/ESLint
-    - Subversion/TortoiseSVN
+  - **Dev**
+    - Visual Studio / Visual Studio Code
+    - Git / GitHub / GitLab
+    - Prettier / ESLint
+    - Subversion / TortoiseSVN
     - Google Tag Manager
-    - MATLAB/TargetLink
+    - MATLAB / TargetLink
 
-## 成果物
+## 🧑‍💻 Experience
 
-- [FGORankGenerator](https://fgorankgenerator.azurewebsites.net/)
-  - [Repository](https://github.com/Gunj0/FGORankGenerator)
+### 📘 Accounting Web Application (2021/08 – Present)
+
+- Role: Technical Lead / Project Manager
+- Involved in all phases: Requirements, Design, Implementation, Testing
+- Worked across the full stack: Frontend, Backend, Infrastructure
+
+### 🔧 Embedded Software for 4-Wheel Engine ECUs (2018/04 – 2021/08)
+
+- Role: Embedded Software Engineer
+- Responsibilities: Requirements Definition, Design, Coding, Testing
+- Tools: MATLAB, ANSI-C
+
+## 🧪 Personal Projects
+
+- [Gunj0 Portfolio site](https://www.gunj0.com/)
+  - A personal portfolio to showcase my skills using modern frontend stack.
+  - Built with: Next.js / TailwindCSS / shadcn/ui / Vercel

@@ -1,8 +1,8 @@
 # [Gunj0](https://www.gunj0.com/)
 
-🇯🇵 日本在住のフルスタック Web エンジニアです。  
+✋️ 日本在住のフルスタック Web エンジニアです。  
 💡 C# と TypeScript を中心に、モダンな Web アプリケーションの設計・開発を得意としています。  
-👉️ [English 🇺🇸](./README.md)
+👉️ [English](./README.md)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunj0&layout=compact)](https://github.com/Gunj0?tab=repositories)
 

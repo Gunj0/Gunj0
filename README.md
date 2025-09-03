@@ -69,20 +69,20 @@
 
 - Period: August 2021 - Present
 - Role: Web Application Developer / Technical Lead
-- Tech Stack: React, ASP.NET Core, Docker, AWS, etc.
+- Tech Stack: Next.js / ASP.NET Core / Docker / AWS
 
 ### 🔧 Embedded Software Development for 4-Wheel Engine ECUs
 
 - Period: April 2018 - August 2021
 - Role: Embedded Software Developer
-- Tech Stack: MATLAB, Simulink, ANSI-C
+- Tech Stack: MATLAB / Simulink / ANSI-C
 
 ## 🧪 Personal Projects
 
 - [Gunj0 Portfolio Website](https://www.gunj0.com/)
   - A portfolio website showcasing my background, skills, and technical blog.
   - Built using modern frontend technologies.
-  - Tech Stack: Next.js / TailwindCSS / shadcn/ui / Vercel
+  - Tech Stack: Next.js / TailwindCSS / shadcn/ui / Node.js / Vercel
 
 ## 📫 Contact
 

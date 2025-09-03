@@ -50,7 +50,7 @@
     - Docker
 - **Personal**
   - Cloudflare
-  - Firebase
+  - Vercel
 
 ### ⚙️ DevOps
 

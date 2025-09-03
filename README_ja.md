@@ -68,14 +68,14 @@
 ### 📘 会計 Web アプリケーション開発
 
 - 期間: 2021 年 8 月 ～ 現在
-- 担当: Web アプリエンジニア / テクニカルリード
-- 開発: React, ASP.NET Core, Docker, AWS 等
+- 担当: Web アプリエンジニア / エンジニアリングマネージャー
+- 開発: Next.js / ASP.NET Core / Docker / AWS
 
 ### 🔧 四輪エンジン ECU 組み込みソフトウェア開発
 
 - 期間: 2018 年 4 月 ～ 2021 年 8 月
 - 担当: 組み込みソフトウェアエンジニア
-- 開発: MATLAB・Simulink・ANSI-C を使用
+- 開発: MATLAB / Simulink / ANSI-C
 
 ## 🧪 個人開発
 

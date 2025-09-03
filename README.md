@@ -1,7 +1,7 @@
 # [Gunj0](https://www.gunj0.com/)
 
-✋️ Full-Stack Web Developer based in Japan.  
-💡 I specialize in designing and building modern web applications with C# and TypeScript.  
+✋️ Full-Stack Web Developer in Japan.  
+💡 I specialize in building modern web applications with C# and TypeScript.  
 👉️ [日本語](./README_ja.md)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunj0&layout=compact)](https://github.com/Gunj0?tab=repositories)
@@ -13,8 +13,7 @@
 ### 🎨 Frontend
 
 - **Professional**
-  - HTML
-  - CSS / TailwindCSS
+  - HTML / CSS / TailwindCSS
   - JavaScript / TypeScript
   - React / Next.js
 - **Personal**
@@ -25,9 +24,9 @@
 - **Professional**
   - C# / .NET /.NET Framework
   - ASP.NET Core / ASP.NET MVC
-  - GraphQL / HotChocolate
+  - GraphQL
 - **Personal**
-  - TypeScript / Node.js / Express
+  - Node.js / Express
   - Ruby / Ruby on Rails
 
 ### 🗄️ Database
@@ -63,20 +62,6 @@
   - Google Tag Manager
 - **Security**
   - yamory
-
-### 🛠 Tools
-
-- **Development**
-  - Visual Studio / VS Code
-  - Git / GitHub / GitLab / SVN / TortoiseSVN
-  - Prettier / ESLint
-  - Figma
-  - MATLAB / Simulink / TargetLink
-- **Communication / Management**
-  - Slack
-  - Jira
-  - Confluence
-  - Miro
 
 ## 🧑‍💻 Experience
 

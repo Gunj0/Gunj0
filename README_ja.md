@@ -13,8 +13,7 @@
 ### 🎨 フロントエンド
 
 - **業務経験**
-  - HTML
-  - CSS / TailwindCSS
+  - HTML / CSS / TailwindCSS
   - JavaScript / TypeScript
   - React / Next.js
 - **個人開発**
@@ -25,9 +24,9 @@
 - **業務経験**
   - C# / .NET /.NET Framework
   - ASP.NET Core / ASP.NET MVC
-  - GraphQL / HotChocolate
+  - GraphQL
 - **個人開発**
-  - TypeScript / Node.js / Express
+  - Node.js / Express
   - Ruby / Ruby on Rails
 
 ### 🗄️ データベース
@@ -50,7 +49,7 @@
     - Docker
 - **個人開発**
   - Cloudflare
-  - Firebase
+  - Vercel
 
 ### ⚙️ DevOps
 
@@ -63,20 +62,6 @@
   - Google Tag Manager
 - **セキュリティ**
   - yamory
-
-### 🛠 ツール
-
-- **開発環境**
-  - Visual Studio / VS Code
-  - Git / GitHub / GitLab / SVN / TortoiseSVN
-  - Prettier / ESLint
-  - Figma
-  - MATLAB / Simulink / TargetLink
-- **コミュニケーション・管理**
-  - Slack
-  - Jira
-  - Confluence
-  - Miro
 
 ## 🧑‍💻 実務経験
 

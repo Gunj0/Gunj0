@@ -4,10 +4,6 @@
 💡 I specialize in building modern web applications with C# and TypeScript.  
 👉️ [日本語](./README_ja.md)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunj0&layout=compact)](https://github.com/Gunj0?tab=repositories)
-
-> Language usage stats across my public GitHub repositories.
-
 ## 🚀 Skills
 
 ### 🎨 Frontend
@@ -23,7 +19,7 @@
 
 - **Professional**
   - C# / .NET /.NET Framework
-  - ASP.NET Core / ASP.NET MVC
+  - ASP.NET Core / ASP.NET
   - GraphQL
 - **Personal**
   - Node.js / Express
@@ -43,7 +39,7 @@
 
 - **Professional**
   - **Cloud**
-    - AWS (ECS, RDS, Lambda, S3, CloudWatch, CodePipeline)
+    - AWS (ECS, RDS, SQS, CodePipeline)
     - Azure (App Service, SQL Database, Redis Cache, Azure Storage)
   - **Container**
     - Docker
@@ -80,11 +76,10 @@
 ## 🧪 Personal Projects
 
 - [Gunj0 Portfolio Website](https://www.gunj0.com/)
-  - A portfolio website showcasing my background, skills, and technical blog.
+  - A portfolio website showcasing my background, skills and photo gallery.
   - Built using modern frontend technologies.
   - Tech Stack: Next.js / TailwindCSS / shadcn/ui / Node.js / Vercel
 
 ## 📫 Contact
 
 - [X (Twitter)](https://x.com/Gunj0dev)
-- [Bluesky](https://bsky.app/profile/gunj0.bsky.social)

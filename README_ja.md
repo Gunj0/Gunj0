@@ -4,10 +4,6 @@
 💡 C# と TypeScript を中心に、モダンな Web アプリケーションの設計・開発を得意としています。  
 👉️ [English](./README.md)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunj0&layout=compact)](https://github.com/Gunj0?tab=repositories)
-
-> GitHub 上での各言語の使用率
-
 ## 🚀 スキル
 
 ### 🎨 フロントエンド
@@ -23,7 +19,7 @@
 
 - **業務経験**
   - C# / .NET /.NET Framework
-  - ASP.NET Core / ASP.NET MVC
+  - ASP.NET Core / ASP.NET
   - GraphQL
 - **個人開発**
   - Node.js / Express
@@ -44,7 +40,7 @@
 - **業務経験**
   - **クラウド**
     - AWS (ECS, RDS, SQS, CodePipeline)
-    - Azure (App Service, SQL Database, Redis Cache, Container Registry)
+    - Azure (App Service, SQL Database, Redis Cache, Azure Storage)
   - **コンテナ**
     - Docker
 - **個人開発**
@@ -68,7 +64,7 @@
 ### 📘 会計 Web アプリケーション開発
 
 - 期間: 2021 年 8 月 ～ 現在
-- 担当: Web アプリエンジニア / エンジニアリングマネージャー
+- 担当: Web アプリエンジニア / テックリード
 - 開発: Next.js / ASP.NET Core / Docker / AWS
 
 ### 🔧 四輪エンジン ECU 組み込みソフトウェア開発
@@ -80,11 +76,10 @@
 ## 🧪 個人開発
 
 - [Gunj0 ポートフォリオサイト](https://www.gunj0.com/)
-  - 自己紹介・スキルセット・技術ブログ等をまとめたポートフォリオサイトです。
+  - 自己紹介・スキルセット・フォトギャラリーをまとめたポートフォリオサイトです。
   - モダンなフロントエンド技術を活用しています。
   - 使用技術: Next.js / TailwindCSS / shadcn/ui / Vercel
 
 ## 📫 連絡先
 
 - [X (Twitter)](https://x.com/Gunj0dev)
-- [Bluesky](https://bsky.app/profile/gunj0.bsky.social)
